@@ -33,10 +33,9 @@ $$ CH = \frac{\text{tr}(B_k)}{\text{tr}(W_k)} \times \frac{N-k}{k-1} $$
 
 ## Which Metric When?
 
-| Metric | Good For | Bad For |
-|---|---|---|
-| Silhouette | k-means, hierarchical clustering | Arbitrary-shaped, varying-density |
-| Davies-Bouldin | Comparing across k values | Density-based clustering |
-| Calinski-Harabasz | Well-separated Gaussians | Outliers, non-spherical |
+- **Silhouette**: k-means, hierarchical clustering · Arbitrary-shaped, varying-density
+- **Davies-Bouldin**: Comparing across k values · Density-based clustering
+- **Calinski-Harabasz**: Well-separated Gaussians · Outliers, non-spherical
+
 
 **Key insight**: These metrics share the implicit assumption of spherical, roughly-equal-sized clusters. Using them to tune DBSCAN parameters (ε, minPts) is misleading — DBSCAN's strength is finding arbitrary-shaped clusters, and these metrics penalise that strength. For density-based clustering, visual inspection, stability analysis, or DBCV (Density-Based Clustering Validation) are more appropriate — but no metric is a complete substitute for understanding your data.

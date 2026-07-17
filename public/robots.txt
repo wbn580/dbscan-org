@@ -16,4 +16,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://xgboost.org/sitemap-index.xml
+Sitemap: https://dbscan.org/sitemap-index.xml

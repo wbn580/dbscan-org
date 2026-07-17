@@ -9,11 +9,10 @@ Three clustering algorithms dominate practical work. Choosing between them requi
 
 ## The Assumptions
 
-| Algorithm | Cluster Shape | Handles Noise | Needs # Clusters? |
-|---|---|---|---|
-| k-means | Spherical, equal size | Forces into cluster | Yes |
-| DBSCAN | Arbitrary | Explicit noise labels | No |
-| HDBSCAN | Arbitrary | Explicit noise labels | No |
+- **k-means**: Spherical, equal size · Forces into cluster · Yes
+- **DBSCAN**: Arbitrary · Explicit noise labels · No
+- **HDBSCAN**: Arbitrary · Explicit noise labels · No
+
 
 ## When Each Wins
 

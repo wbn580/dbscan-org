@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ECFEFF"/>
+  <circle cx="160" cy="170" r="52" fill="#0E7490"/><circle cx="280" cy="265" r="38" fill="#22D3EE"/>
+  <circle cx="1020" cy="460" r="58" fill="#0E7490"/><circle cx="900" cy="375" r="40" fill="#67E8F9"/>
+  <circle cx="1080" cy="120" r="18" fill="#F59E0B"/>
+  <text x="96" y="330" font-family="Arial, sans-serif" font-size="92" font-weight="700" fill="#0F172A">DBSCAN Guide</text>
+  <text x="100" y="410" font-family="Arial, sans-serif" font-size="38" fill="#475569">Density-based clustering, explained clearly.</text>
+  <text x="100" y="520" font-family="monospace" font-size="28" fill="#0E7490">dbscan.org</text>
+</svg>

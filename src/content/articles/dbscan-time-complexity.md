@@ -24,12 +24,11 @@ $O(n)$ for the spatial index (tree structure) + $O(n)$ for labels and core sampl
 
 ## Practical Runtimes (scikit-learn, single core)
 
-| n | d | Time (ball_tree) |
-|---|---|---|
-| 10,000 | 2 | <1 second |
-| 50,000 | 2 | ~3 seconds |
-| 100,000 | 10 | ~10 seconds |
-| 500,000 | 10 | ~60 seconds |
-| 1,000,000 | 2 | ~3 minutes |
+- **10,000**: 2 · <1 second
+- **50,000**: 2 · ~3 seconds
+- **100,000**: 10 · ~10 seconds
+- **500,000**: 10 · ~60 seconds
+- **1,000,000**: 2 · ~3 minutes
+
 
 HDBSCAN is typically 2–5× slower than DBSCAN for the same dataset size due to the additional hierarchy construction.

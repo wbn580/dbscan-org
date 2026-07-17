@@ -20,14 +20,13 @@ The distance metric is the most under-appreciated parameter in clustering. Chang
 
 ## Choosing a Metric
 
-| Data Type | Recommended Metric |
-|---|---|
-| Continuous, normalised | Euclidean |
-| Count data, heavy tails | Manhattan |
-| Text (TF-IDF, embeddings) | Cosine |
-| Correlated features | Mahalanobis |
-| Geographic (lat/lon) | Haversine |
-| Mixed types | Gower distance (pre-compute) |
+- **Continuous, normalised**: Euclidean
+- **Count data, heavy tails**: Manhattan
+- **Text (TF-IDF, embeddings)**: Cosine
+- **Correlated features**: Mahalanobis
+- **Geographic (lat/lon)**: Haversine
+- **Mixed types**: Gower distance (pre-compute)
+
 
 Scikit-learn's `DBSCAN(metric='precomputed')` accepts a pre-computed distance matrix — use this for custom or non-standard metrics. The matrix is $n \times n$ and must be symmetric.
 
