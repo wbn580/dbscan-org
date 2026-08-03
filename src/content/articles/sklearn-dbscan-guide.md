@@ -3,6 +3,7 @@ title: "Scikit-learn DBSCAN · Implementation Guide"
 description: "A practical guide to using DBSCAN in scikit-learn — parameter configuration, handling large datasets, extracting cluster labels, and visualising results."
 section: "code"
 publishDate: "2026-05-15T08:10:00Z"
+ogImage: "https://img.ulec.com.cn/AI/sklearn-dbscan-guide-2026-1880x869.jpg"
 ---
 
 ```python

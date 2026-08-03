@@ -3,6 +3,7 @@ title: "Distance Metrics for Clustering · Euclidean, Manhattan, Cosine, and Mor
 description: "How the choice of distance metric affects clustering results — Euclidean, Manhattan, Cosine, Mahalanobis, Haversine, and when to use each."
 section: "math"
 publishDate: "2026-05-15T08:10:00Z"
+ogImage: "https://img.ulec.com.cn/AI/distance-metrics-clustering-2026-1880x1253.jpg"
 ---
 The distance metric is the most under-appreciated parameter in clustering. Changing the metric changes which points are considered "close" and thus fundamentally changes the clusters. DBSCAN defaults to Euclidean distance but supports custom metrics.
 

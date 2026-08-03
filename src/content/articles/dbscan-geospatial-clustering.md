@@ -3,6 +3,7 @@ title: "DBSCAN for Geospatial Data · Clustering GPS Coordinates"
 description: "How to cluster geographic data with DBSCAN — Haversine distance, handling latitude and longitude, map visualisation with folium, and real-world spatial analysis."
 section: "code"
 publishDate: "2026-05-15T08:20:00Z"
+ogImage: "https://img.ulec.com.cn/AI/dbscan-geospatial-clustering-2026-1880x1299.jpg"
 ---
 
 ```python

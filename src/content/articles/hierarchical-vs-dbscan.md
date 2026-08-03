@@ -3,6 +3,7 @@ title: "Hierarchical Clustering vs DBSCAN · Agglomerative vs Density-Based"
 description: "Comparing hierarchical (agglomerative) clustering and DBSCAN — dendrograms, arbitrary shapes, noise handling, and the computational cost tradeoffs."
 section: "compare"
 publishDate: "2026-05-15T08:20:00Z"
+ogImage: "https://img.ulec.com.cn/AI/hierarchical-vs-dbscan-2026-1880x869.jpg"
 ---
 Hierarchical clustering builds a full tree of cluster merges (dendrogram). DBSCAN produces a flat clustering with a noise class.
 

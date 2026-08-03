@@ -3,6 +3,7 @@ title: "Spatial Indexing for Clustering · R*-trees, kd-trees, and Ball Trees"
 description: "How spatial indexing accelerates clustering algorithms — the data structures behind efficient neighborhood queries in DBSCAN and OPTICS."
 section: "code"
 publishDate: "2026-05-15T08:10:00Z"
+ogImage: "https://img.ulec.com.cn/AI/spatial-indexing-clustering-2026-1880x869.jpg"
 ---
 The region query ("find all points within distance ε of p") is the computational bottleneck of DBSCAN and related algorithms. Without spatial indexing, it's $O(n^2)$ — checking every point against every other point. Spatial indices reduce this to $O(\log n)$ per query.
 

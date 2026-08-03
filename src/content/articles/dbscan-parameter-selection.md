@@ -3,6 +3,7 @@ title: "DBSCAN Parameter Selection · Choosing Epsilon and MinPts"
 description: "A practical guide to choosing DBSCAN's two parameters — the k-distance graph method for epsilon, rules of thumb for minPts, and validation approaches."
 section: "code"
 publishDate: "2026-05-15T08:10:00Z"
+ogImage: "https://img.ulec.com.cn/AI/dbscan-parameter-selection-2026-1880x869.jpg"
 ---
 
 Choosing ε and minPts is the hardest part of using DBSCAN. This guide covers the standard method (k-distance graph) and practical heuristics.

@@ -3,6 +3,7 @@ title: "DBSCAN Time Complexity · Naive O(n²) vs O(n log n) with Spatial Indexi
 description: "Understanding DBSCAN's computational complexity — the naive algorithm, the role of spatial indexing, worst-case vs average-case, and practical runtime expectations."
 section: "math"
 publishDate: "2026-05-15T08:15:00Z"
+ogImage: "https://img.ulec.com.cn/AI/dbscan-time-complexity-2026-1880x869.jpg"
 ---
 DBSCAN's time complexity depends critically on the region query implementation.
 

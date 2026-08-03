@@ -3,6 +3,7 @@ title: "DBSCAN · Density-Based Spatial Clustering Explained"
 description: "A complete guide to the DBSCAN clustering algorithm — how density-based clustering works, the eps and minPts parameters, advantages over k-means, and handling of noise points."
 section: "concept"
 publishDate: "2026-05-15T05:00:00Z"
+ogImage: "https://img.ulec.com.cn/AI/dbscan-density-clustering-explained-2026-1880x869.jpg"
 ---
 
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is one of the most widely used clustering algorithms in data science. Proposed by Martin Ester, Hans-Peter Kriegel, Jörg Sander, and Xiaowei Xu in 1996, it can find clusters of arbitrary shape, doesn't require specifying the number of clusters, and explicitly identifies noise points.

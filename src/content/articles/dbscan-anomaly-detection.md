@@ -3,6 +3,7 @@ title: "DBSCAN for Anomaly Detection · Finding Outliers with Density"
 description: "How to use DBSCAN for anomaly and outlier detection — the practical approach, advantages over statistical methods, and real-world applications in fraud and network security."
 section: "code"
 publishDate: "2026-05-15T08:10:00Z"
+ogImage: "https://img.ulec.com.cn/AI/dbscan-anomaly-detection-2026-1880x869.jpg"
 ---
 
 DBSCAN's noise classification makes it a ready-made anomaly detector: points labeled -1 are anomalies by definition. This approach has specific advantages over statistical methods (Z-score, IQR) and isolation-based methods (Isolation Forest).

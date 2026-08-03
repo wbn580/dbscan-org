@@ -3,6 +3,7 @@ title: "Clustering with High-Dimensional Data · The Curse of Dimensionality"
 description: "Why clustering fails in high dimensions — distance concentration, the emptiness phenomenon, and strategies for clustering high-dimensional data with DBSCAN."
 section: "math"
 publishDate: "2026-05-15T08:15:00Z"
+ogImage: "https://img.ulec.com.cn/AI/clustering-high-dimensional-data-2026-1880x1299.jpg"
 ---
 Clustering in high dimensions is qualitatively different from clustering in 2D or 3D. The phenomenon that makes it different — distance concentration — affects all distance-based algorithms, including DBSCAN.
 

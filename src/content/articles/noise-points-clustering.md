@@ -3,6 +3,7 @@ title: "Noise Points in Clustering · Outlier Detection vs Noise Classification"
 description: "How density-based clustering identifies noise — the difference between outliers and noise, the role of noise points in anomaly detection, and interpreting noise classifications."
 section: "concept"
 publishDate: "2026-05-15T08:10:00Z"
+ogImage: "https://img.ulec.com.cn/AI/noise-points-clustering-2026-1880x869.jpg"
 ---
 
 DBSCAN and HDBSCAN explicitly classify points as "noise" (cluster label = -1). This is one of their most valuable features — unlike k-means, they don't force every point into a cluster. But what does "noise" actually mean?
