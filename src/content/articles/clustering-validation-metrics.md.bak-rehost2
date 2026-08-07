@@ -3,7 +3,7 @@ title: "Clustering Validation Metrics · Silhouette, Davies-Bouldin, and Calinsk
 description: "How to evaluate clustering quality — internal validation metrics (silhouette score, Davies-Bouldin index, Calinski-Harabasz index), when each is appropriate, and their limitations."
 section: "math"
 publishDate: "2026-05-15T08:10:00Z"
-ogImage: "https://img.dbscan.org/AI/clustering-validation-metrics-2026-1880x1253.jpg"
+ogImage: "https://img.ulec.com.cn/AI/clustering-validation-metrics-2026-1880x1253.jpg"
 ---
 
 Evaluating clustering is fundamentally harder than evaluating classification — there are no ground-truth labels. Internal validation metrics assess clustering quality using only the data and the cluster assignments, without external labels.

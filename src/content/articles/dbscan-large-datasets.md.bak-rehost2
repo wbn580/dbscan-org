@@ -3,7 +3,7 @@ title: "Scaling DBSCAN to Large Datasets · Approximation Strategies"
 description: "Practical approaches to clustering millions of points — approximate DBSCAN, sampling, grid-based acceleration, and the limits of exact DBSCAN."
 section: "code"
 publishDate: "2026-05-15T08:20:00Z"
-ogImage: "https://img.dbscan.org/AI/dbscan-large-datasets-2026-1880x869.jpg"
+ogImage: "https://img.ulec.com.cn/AI/dbscan-large-datasets-2026-1880x869.jpg"
 ---
 DBSCAN's $O(n \log n)$ complexity is adequate for hundreds of thousands of points but breaks down at millions. Approximate methods trade accuracy for scalability.
 

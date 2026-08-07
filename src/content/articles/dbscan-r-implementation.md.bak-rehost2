@@ -3,7 +3,7 @@ title: "DBSCAN in R · Implementation with dbscan and fpc Packages"
 description: "Using DBSCAN in R — the dbscan package, kNNdistplot for epsilon selection, fpc::dbscan, and comparison with Python implementations."
 section: "code"
 publishDate: "2026-05-15T08:15:00Z"
-ogImage: "https://img.dbscan.org/AI/dbscan-r-implementation-2026-1880x869.jpg"
+ogImage: "https://img.ulec.com.cn/AI/dbscan-r-implementation-2026-1880x869.jpg"
 ---
 The `dbscan` R package (Hahsler et al., 2019) provides a fast C++ implementation of DBSCAN with support for frNN (fixed-radius nearest neighbours) and shared nearest neighbour (SNN) clustering.
 

@@ -3,7 +3,7 @@ title: "Gaussian Mixture Models vs DBSCAN · Probabilistic vs Density Clustering
 description: "Comparing GMM and DBSCAN — soft clustering vs noise classification, spherical vs arbitrary shapes, and when to use each approach."
 section: "compare"
 publishDate: "2026-05-15T08:20:00Z"
-ogImage: "https://img.dbscan.org/AI/gmm-vs-dbscan-comparison-2026-1880x869.jpg"
+ogImage: "https://img.ulec.com.cn/AI/gmm-vs-dbscan-comparison-2026-1880x869.jpg"
 ---
 Gaussian Mixture Models (GMM) and DBSCAN represent two fundamentally different approaches to clustering: probabilistic (GMM) vs density-based (DBSCAN).
 

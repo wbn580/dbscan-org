@@ -3,7 +3,7 @@ title: "The Ester et al. 1996 Paper · Original DBSCAN Formulation"
 description: "A summary of the original DBSCAN paper — the key contributions, the algorithm's intellectual context in 1996, and how the original formulation compares with modern implementations."
 section: "papers"
 publishDate: "2026-05-15T08:20:00Z"
-ogImage: "https://img.dbscan.org/AI/ester-1996-dbscan-paper-2026-1880x869.jpg"
+ogImage: "https://img.ulec.com.cn/AI/ester-1996-dbscan-paper-2026-1880x869.jpg"
 ---
 The 1996 KDD paper "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise" by Martin Ester, Hans-Peter Kriegel, Jörg Sander, and Xiaowei Xu introduced DBSCAN and addressed a specific problem: spatial databases (Oracle Spatial, ESRI) were growing rapidly, and existing clustering algorithms (CLARANS, BIRCH) either assumed spherical clusters or couldn't handle noise.
 

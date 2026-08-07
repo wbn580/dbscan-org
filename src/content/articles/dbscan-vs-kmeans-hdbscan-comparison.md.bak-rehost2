@@ -3,7 +3,7 @@ title: "DBSCAN vs k-means vs HDBSCAN · A Practical Comparison"
 description: "A side-by-side comparison of DBSCAN, k-means, and HDBSCAN — when each algorithm wins, real performance on benchmark datasets, and guidelines for choosing."
 section: "compare"
 publishDate: "2026-05-15T05:00:00Z"
-ogImage: "https://img.dbscan.org/AI/dbscan-vs-kmeans-hdbscan-comparison-2026-1880x869.jpg"
+ogImage: "https://img.ulec.com.cn/AI/dbscan-vs-kmeans-hdbscan-comparison-2026-1880x869.jpg"
 ---
 
 Three clustering algorithms dominate practical work. Choosing between them requires understanding their assumptions.

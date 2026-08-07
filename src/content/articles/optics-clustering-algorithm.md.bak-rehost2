@@ -3,7 +3,7 @@ title: "OPTICS · Ordering Points To Identify the Clustering Structure"
 description: "How OPTICS extends DBSCAN to handle varying-density clusters — the reachability plot, core distance, and how to extract clusters from OPTICS output."
 section: "concept"
 publishDate: "2026-05-15T08:10:00Z"
-ogImage: "https://img.dbscan.org/AI/optics-clustering-algorithm-2026-1880x1255.jpg"
+ogImage: "https://img.ulec.com.cn/AI/optics-clustering-algorithm-2026-1880x1255.jpg"
 ---
 OPTICS (Ankerst et al., 1999) is an extension of DBSCAN that addresses its most significant limitation: the inability to detect clusters of varying density using a single ε parameter. Instead of producing a single clustering, OPTICS produces an **ordering of points** that encodes the hierarchical clustering structure.
 
