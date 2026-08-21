@@ -17,3 +17,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://dbscan.org/sitemap-index.xml
+Sitemap: https://dbscan.org/sitemap.xml
